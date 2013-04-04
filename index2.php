@@ -1,5 +1,3 @@
 <?php echo phpinfo(); ?>
 
-Testing thaere and changes...........
-
-Test Data...
+/**************************************TESTING*******************************************/
